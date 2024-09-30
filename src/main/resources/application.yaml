@@ -1,0 +1,13 @@
+spring:
+  ai:
+    openai:
+      api-key:${API-KEY}
+      chat:
+        options:
+          model: gpt-4o
+          temperature: 0.7
+
+
+
+server:
+  port: 8089

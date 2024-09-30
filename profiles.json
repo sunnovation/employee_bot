@@ -1,0 +1,51 @@
+[
+  {
+    "id": "234",
+    "name": "Emily",
+    "designation": "Johnson",
+	"department":"HR"
+    "age": 30,
+    "salary": 1234567.89,
+    "bio": "Passionate about travel, photography, and new adventures. Always up for a good book and deep conversations. Let\u0027s explore the world together!",
+    "gender": "FEMALE",
+	"imageUrl": "E:\\images\\8b0e4a15-95c2-45bd-937d-f001a8bfbfec.jpg"
+  },
+  {
+    "id": "238",
+    "name": "Maya",
+    "designation": "Developer",
+	"department":"Jeffries"
+    "age": 25,
+    "salary": 45256.23,
+    "bio": "Creative soul with a love for music and art. Enjoys outdoor activities and spontaneous road trips. Looking for someone to share life\u0027s beautiful moments.",
+    "gender": "FEMALE",
+	"imageUrl": "E:\\images\\a4e6d728-17e2-48ca-ba4c-6b980dee7001.jpg"
+   
+  },
+  
+  {
+    "id": "239",
+    "name": "Sophia Lee",
+    "designation": "Sr Developer",
+	"department":"TIAA"
+    "age": 28,
+    "salary": 145256.23,
+    "bio": "Tech enthusiast and foodie. I enjoy coding by day and exploring new cuisines by night. Let\u0027s create something amazing together!",
+    "gender": "FEMALE",
+	"imageUrl": "E:\\images\\f8cb8344-862e-435d-b58a-15e0dcc87ac3.jpg"
+   
+  },
+   {
+    "id": "240",
+    "name": "Aisha Patel",
+    "designation": "Lead Developer",
+	"department":"TIAA"
+    "age": 32,
+    "salary": 235256.23,
+    "bio": "Yoga instructor with a love for mindfulness and wellness. Enjoys reading and long walks in nature. Looking for someone who values inner peace.",
+    "gender": "FEMALE",
+	"imageUrl": "E:\\images\\d69116e9-2e3e-45b0-a2f5-5ee28817b475.jpg"
+   
+  }
+  
+]
